@@ -18,9 +18,9 @@
 // ==/UserScript==
 
 if(typeof(dojo) != "undefined") {
-	var foo = "bar";
 	require(["dojo/domReady!"], function(){
         try {
+	    var foo = "bar";
             // utility function to let us wait for a specific element of the page to load...
             var waitFor = function(callback, elXpath, elXpathRoot, maxInter, waitTime) {
                 if(!elXpathRoot) var elXpathRoot = dojo.body();
