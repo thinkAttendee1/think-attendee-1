@@ -20,7 +20,6 @@
 if(typeof(dojo) != "undefined") {
 	require(["dojo/domReady!"], function(){
         try {
-	    var foo = "bar";
             // utility function to let us wait for a specific element of the page to load...
             var waitFor = function(callback, elXpath, elXpathRoot, maxInter, waitTime) {
                 if(!elXpathRoot) var elXpathRoot = dojo.body();
@@ -47,7 +46,6 @@ if(typeof(dojo) != "undefined") {
 			// wait until the "loading..." node has been hidden
 			// indicating that we have loaded content.
    			dojo.query("span.shareSome-title")[0].textContent="Hello " + lconn.homepage.userName + "! ";
-		    	console.log(foo);
        	          },
 		  ".lotusStreamTopLoading div.loaderMain.lotusHidden");
       } catch(e) {
