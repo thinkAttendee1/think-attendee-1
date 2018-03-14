@@ -50,7 +50,7 @@ if(typeof(dojo) != "undefined") {
                 var deferred = dojo.xhrGet(xhrargs);
                 deferred.then(
                   function(results) {
-                    //console.log('JSON response = ' + JSON.stringify(results, null, 4));
+                    console.log('JSON response = ' + JSON.stringify(results, null, 4));
                     dojo.query("span.shareSome-title")[0].textContent="Hello " + results.entry.displayName + " !";
                   }
                 );
