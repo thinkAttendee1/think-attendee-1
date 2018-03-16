@@ -8,11 +8,11 @@ The App Registry URL is:
 
 ### Useful links and snippets for lab exercises:
 
-#### Hello World Exercise - Slide #32
+#### Hello World Exercise - Slide #31
 
 ```dojo.query("span.shareSome-title")[0].textContent="Hello " + lconn.homepage.userName + "! ";```
 
-#### Hello World Exercise - Slide #35
+#### Hello World Exercise - Slide #34
 ```
 var xhrargs = {
     url: "/connections/opensocial/rest/people/@me/@self",
@@ -27,13 +27,13 @@ deferred.then(
 );
 ```
 
-#### CSS Exercises: - Slide #43
+#### CSS Exercises: - Slide #42
 ```"profiles/profilesCustomization.css"```
 
-#### CSS Exercises: - Slide #46
+#### CSS Exercises: - Slide #45
 https://github.com/ibmcnxdev/cnx-custom-theme
 
-#### CSS Exercises: - Slide #49 - 
+#### CSS Exercises: - Slide #48 - 
 'think-attendee-x' where 'x' is the unique id index of your repo name  
 ```
 {
@@ -53,7 +53,7 @@ https://github.com/ibmcnxdev/cnx-custom-theme
 }
 ````
 
-#### CSS Exercises: - Slide #52
+#### CSS Exercises: - Slide #51
 https://www.ibm.com/design/language/resources/color-library/
 
 ### Online Resources ###
