@@ -51,20 +51,20 @@ https://github.com/ibmcnxdev/cnx-custom-theme
 https://www.ibm.com/design/language/resources/color-library/
 
 ### Online Resources ###
-https://opencode4connections.org
-https://github.com/OpenCode4Connections/
-https://github.com/OpenCode4Connections/enhanced-activity-stream
-https://github.com/OpenCode4Connections/status-update-tone-analyzer
-https://github.com/OpenCode4Connections/bluemix-weather-widget
-https://github.com/OpenCode4Connections/watson-workspace-links
-https://github.com/ibmcnxdev/customizer/
-https://github.com/ibmcnxdev/customizer/blob/master/README.md
-https://github.com/ibmcnxdev/customizer/tree/master/docs
-https://github.com/ibmcnxdev/customizer/tree/master/samples
-https://github.com/ibmcnxdev/customizer/blob/master/docs/IBMConnectionsCustomizer.pdf
-http://bit.ly/2xmUuj5
-https://greasyfork.org/en
-https://tampermonkey.net/
-http://www.greasespot.net/
-https://zach-adams.com/2014/05/best-userscripts-tampermonkey-greasemonkey/
-https://www.lifewire.com/top-greasemonkey-tampermonkey-user-scripts-4134335
+* https://opencode4connections.org
+* https://github.com/OpenCode4Connections/
+* https://github.com/OpenCode4Connections/enhanced-activity-stream
+* https://github.com/OpenCode4Connections/status-update-tone-analyzer
+* https://github.com/OpenCode4Connections/bluemix-weather-widget
+* https://github.com/OpenCode4Connections/watson-workspace-links
+* https://github.com/ibmcnxdev/customizer/
+* https://github.com/ibmcnxdev/customizer/blob/master/README.md
+* https://github.com/ibmcnxdev/customizer/tree/master/docs
+* https://github.com/ibmcnxdev/customizer/tree/master/samples
+* https://github.com/ibmcnxdev/customizer/blob/master/docs/IBMConnectionsCustomizer.pdf
+* http://bit.ly/2xmUuj5
+* https://greasyfork.org/en
+* https://tampermonkey.net/
+* http://www.greasespot.net/
+* https://zach-adams.com/2014/05/best-userscripts-tampermonkey-greasemonkey/
+* https://www.lifewire.com/top-greasemonkey-tampermonkey-user-scripts-4134335
