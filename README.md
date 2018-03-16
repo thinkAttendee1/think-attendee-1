@@ -1,6 +1,10 @@
 # think-attendee-1
 Temporary repository for attendees of the IBM Think Customizer Workshop 2018
 
+Log into IBM Connections Cloud - https://apps.na.collabserv.com
+The App Registry URL is:
+    https://apps.na.collabserv.com/appregistry/#/displayApps
+
 ### Useful links and snippets for lab exercises:
 
 #### Hello World Exercise - Slide #32
