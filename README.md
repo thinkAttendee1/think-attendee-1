@@ -23,12 +23,13 @@ deferred.then(
 ```
 
 #### CSS Exercises: - Slide #43
-```"profiles/profilesCustomization.js"```
+```"profiles/profilesCustomization.css"```
 
 #### CSS Exercises: - Slide #46
 https://github.com/ibmcnxdev/cnx-custom-theme
 
-#### CSS Exercises: - Slide #49 - NOTE! Line #41 'x' is the unique id index of your repo name  
+#### CSS Exercises: - Slide #49 - 
+'think-attendee-x' where 'x' is the unique id index of your repo name  
 ```
 {
     "name": "XTended Visual Update I",
